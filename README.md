@@ -60,5 +60,5 @@ Note: Top languages is only a metric of the languages my public code consists of
 <hr>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/NeerajDusa/Github-Template/blob/main/github-contribution-grid-snake.gif)
 
