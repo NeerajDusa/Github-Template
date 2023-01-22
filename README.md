@@ -1,17 +1,10 @@
 ### Hey 👋, I'm [Neeraj !](https://neerajdusa.netlify.app) 
 
-<a href="https://www.linkedin.com/in/neerajdusa/">
-  <img align="left" alt="Neeraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/neerajdusa/">
-  <img align="left" alt="Neeraj's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/NeerajDusa">
-  <img align="left" alt="Neeraj's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/neerajdusa/">
-  <img align="left" alt="Neeraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://www.linkedin.com/in/neerajdusa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neerajdusa/" height="30" width="40" /></a>
+<a href="https://leetcode.com/neerajdusa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajdusa" height="30" width="40" /></a>
+<a href="https://github.com/NeerajDusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="neerajdusa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/neerajdusa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neerajdusa" height="30" width="40" /></a>
+
 
 <br />
 <br />
