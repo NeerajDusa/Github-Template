@@ -37,7 +37,7 @@ Strong technical skills, analytical mindset, self-motivated, independent, creati
 - 👨‍🏫 I recently got leetcode's annual badge (only 0.2% leetcoders got it ;) )
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day.**
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: neerajdusa@gmail.com;
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/neerajdusa);
 
 
 ⭐️ From [Neeraj Dusa](https://github.com/neerajdusa)
